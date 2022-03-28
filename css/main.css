@@ -315,15 +315,15 @@ About Page
 
 	.about-head h2 {
 		background-color: #585858;
-		height: 2rem;
-		width: 8rem;
-		margin-bottom: .5rem;
+		height: 4rem;
+		width: 16rem;
+		margin-bottom: 1rem;
 	}
 
 	.about-head p {
 		background-color: #585858;
-		height: 3rem;
-		width: 8rem;
+		height: 4rem;
+		width: 18rem;
 		margin-bottom: 1rem;
 	}
 
