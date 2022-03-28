@@ -239,22 +239,11 @@ About Page
 	top: 50%;
 }
 
-.about-head > h2, .about-head > p{
-	text-align: left;
-}
-
-.about-head h2 {
+.about-head {
 	background-color: #585858;
-	height: 2rem;
+	height: 4rem;
 	width: 8rem;
 	margin-bottom: .5rem;
-}
-
-.about-head p {
-	background-color: #585858;
-	height: 3rem;
-	width: 8rem;
-	margin-bottom: 1rem;
 }
 
 .about-body {
@@ -309,21 +298,10 @@ About Page
 		top: 50%;
 	}
 
-	.about-head > h2, .about-head > p{
-		text-align: left;
-	}
-
-	.about-head h2 {
+	.about-head {
 		background-color: #585858;
-		height: 4rem;
+		height: 8rem;
 		width: 16rem;
-		margin-bottom: 1rem;
-	}
-
-	.about-head p {
-		background-color: #585858;
-		height: 4rem;
-		width: 18rem;
 		margin-bottom: 1rem;
 	}
 
